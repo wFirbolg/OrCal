@@ -1,0 +1,10 @@
+Flow Rate Calibration: Old Ratio: 0.786, Modifier: 20.0, New Ratio: 0.94320
+Flow Rate Calibration Pass 1: Old Ratio: 0.9, Modifier: -20, New Ratio: 0.72000
+Flow Rate Calibration Pass 2: Pass 1 New Ratio: 0.72, Modifier: -20, Final New Ratio: 0.57600
+Flow Rate Calibration Pass 1: Old Ratio: 0.5, Modifier: -10, New Ratio: 0.45000
+Flow Rate Calibration Pass 1: Old Ratio: 0.7, Modifier: 20, New Ratio: 0.84000
+Flow Rate Calibration Pass 2: Pass 1 New Ratio: 0.84, Modifier: 0, Final New Ratio: 0.84000
+Pressure Advance Calibration: Start Value: 0.0, Step Value: 0.02, Measured Height: 22.0, New PA Value: 0.44000
+Pressure Advance Calibration: Start Value: 0.0, Step Value: 0.02, Measured Height: 25.0, New PA Value: 0.50000
+Flow Rate Calibration Pass 1: Old Ratio: 0.1, Modifier: 20, New Ratio: 0.12000
+Flow Rate Calibration Pass 2: Pass 1 New Ratio: 0.12, Modifier: 0, Final New Ratio: 0.12000
