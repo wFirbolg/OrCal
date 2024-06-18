@@ -1,0 +1,1 @@
+OrCal is your go-to tool for seamless Orca Slicer calibrations. Designed to aid in precise mathematical calculations, OrCal streamlines the calibration process for flow rate, pressure advance, and maximum volumetric speed. Whether you’re a beginner or an experienced user, OrCal ensures your 3D prints are optimized for perfection.
